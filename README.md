@@ -1,2 +1,2 @@
 # Multivariate-Analysis
-Multivariate Analysis Assignments 
+Multivariate Analysis techniques explained with examples
